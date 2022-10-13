@@ -14,5 +14,6 @@ columna crearCol(){
 }
 
 TipoRet crearFila_columna(columna & c,){
-	
+	gdfkoghdjfghiodsfjhdfsoiughjodfsjhdsfijhjidsfghjisdhjisohjifgdhfghdfghijdfghjidfghdfghdfhdh
+		
 }
